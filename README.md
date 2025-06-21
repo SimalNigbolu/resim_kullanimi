@@ -2,4 +2,4 @@
 
 Basit resim ekleme
 
-<img src="assets/images/images.jpg" width="400"/>
+<img src="assets/images/resim_ekleme.png" width="400"/>
